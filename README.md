@@ -1,5 +1,7 @@
 Ribbit
 ======
-Couse project for Teamtreehouse.com
+Course project for Teamtreehouse.com
 
-Android aplication that enable the sending and receiving of self-destructing messages.
+Android aplication that enables the sending and receiving of self-destructing messages.
+
+This project uses a Parse API to deal with the sending, receiving, and deletion of the data.
